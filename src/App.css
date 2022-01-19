@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+*{
+  background-color: rgb(148, 161, 233);
+}
+.btn{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+/* .content{
+  justify-content: space-between;
+  align-items: center;
+  
+} */
+.count{
+  margin-top: 10px;
+}
